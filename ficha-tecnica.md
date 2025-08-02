@@ -16,23 +16,23 @@ O Brasil possui uma oportunidade significativa para desenvolver uma indústria d
 
 ## Índice
 
-1. [Metodologia e Dados Unificados](#metodologia)
-2. [Análise Técnica do Aproveitamento Energético](#aproveitamento-energetico)
-3. [Potencial Realista de Mineração](#potencial-mineracao)
-4. [Análise Competitiva Internacional](#competitiva)
-5. [Custos Operacionais Completos](#custos-operacionais)
-6. [Infraestrutura e Desafios Técnicos](#infraestrutura)
-7. [Marco Regulatório e Riscos](#regulatorio)
-8. [Análise Financeira Rigorosa](#financeiro)
-9. [Cronograma de Implementação](#cronograma)
-10. [Gestão de Riscos](#riscos)
-11. [Recomendações Estratégicas](#recomendacoes)
-12. [Conclusão](#conclusao)
-13. [Referências](#referencias)
+1. [Metodologia e Dados Unificados](#1-metodologia-e-dados-unificados)
+2. [Análise Técnica do Aproveitamento Energético](#2-análise-técnica-do-aproveitamento-energético)
+3. [Potencial Realista de Mineração](#3-potencial-realista-de-mineração)
+4. [Análise Competitiva Internacional](#4-análise-competitiva-internacional)
+5. [Custos Operacionais Completos](#5-custos-operacionais-completos)
+6. [Infraestrutura e Desafios Técnicos](#6-infraestrutura-e-desafios-técnicos)
+7. [Marco Regulatório e Riscos](#7-marco-regulatório-e-riscos)
+8. [Análise Financeira Rigorosa](#8-análise-financeira-rigorosa)
+9. [Cronograma de Implementação](#9-cronograma-de-implementação)
+10. [Gestão de Riscos](#10-gestão-de-riscos)
+11. [Recomendações Estratégicas](#11-recomendações-estratégicas)
+12. [Conclusão](#12-conclusão)
+13. [Referências](#13-referências)
 
 ---
 
-## 1. Metodologia e Dados Unificados {#metodologia}
+## 1. Metodologia e Dados Unificados
 
 **Metodologia Unificada:**
 
@@ -86,7 +86,7 @@ O Brasil possui uma oportunidade significativa para desenvolver uma indústria d
 - Alinhado com estudos da PSR Energy sobre aproveitamento de excedentes
 - Conservador comparado a projeções otimistas de mercado
 
-## 2. Análise Técnica do Aproveitamento Energético {#aproveitamento-energetico}
+## 2. Análise Técnica do Aproveitamento Energético
 
 ### Variabilidade Temporal e Compatibilidade com Mineração
 
@@ -147,7 +147,7 @@ O Brasil possui uma oportunidade significativa para desenvolver uma indústria d
 - Tarifa de backup: US$ 0,08-0,12/kWh
 - Impacto no OPEX: 1-2%
 
-## 3. Potencial Realista de Mineração {#potencial-mineracao}
+## 3. Potencial Realista de Mineração
 
 ### Cálculo de Hashrate Potencial
 
@@ -184,7 +184,7 @@ O Brasil possui uma oportunidade significativa para desenvolver uma indústria d
 - Hashrate correspondente: 20-30 EH/s
 - Participação na rede global: 1,5-2,5%
 
-## 4. Análise Competitiva Internacional {#competitiva}
+## 4. Análise Competitiva Internacional
 
 ### Resposta Competitiva Detalhada
 
@@ -253,7 +253,7 @@ O Brasil possui uma oportunidade significativa para desenvolver uma indústria d
 - Diferenciação em mercados ESG
 - **Vantagem: Posicionamento premium**
 
-## 5. Custos Operacionais Completos {#custos-operacionais}
+## 5. Custos Operacionais Completos
 
 ### Custos de Resfriamento Corrigidos
 
@@ -333,7 +333,7 @@ O Brasil possui uma oportunidade significativa para desenvolver uma indústria d
 **Impacto na Viabilidade:**
 - Necessidade de Bitcoin >US$ 90.000 para viabilidade
 
-## 6. Infraestrutura e Desafios Técnicos {#infraestrutura}
+## 6. Infraestrutura e Desafios Técnicos
 
 ### Cronograma Realista de Desenvolvimento
 
@@ -393,7 +393,7 @@ O Brasil possui uma oportunidade significativa para desenvolver uma indústria d
 - Armazenagem climatizada
 - Distribuição para locais remotos
 
-## 7. Marco Regulatório e Riscos {#regulatorio}
+## 7. Marco Regulatório e Riscos
 
 ### Análise Quantificada de Riscos
 
@@ -429,7 +429,7 @@ O Brasil possui uma oportunidade significativa para desenvolver uma indústria d
 - Transparência operacional total
 - Programas de responsabilidade social
 
-## 8. Análise Financeira Rigorosa {#financeiro}
+## 8. Análise Financeira Rigorosa
 
 ### Modelo Econômico Corrigido
 
@@ -503,7 +503,7 @@ O Brasil possui uma oportunidade significativa para desenvolver uma indústria d
 - Melhoria para 8 J/TH: Aumento 15-20% no ROI
 - Estagnação em 20 J/TH: Redução 20-25% no ROI
 
-## 9. Cronograma de Implementação {#cronograma}
+## 9. Cronograma de Implementação
 
 ### Fases Revisadas e Realistas
 
@@ -544,7 +544,7 @@ O Brasil possui uma oportunidade significativa para desenvolver uma indústria d
 - Variação por estado
 - Necessidade de padronização
 
-## 10. Gestão de Riscos {#riscos}
+## 10. Gestão de Riscos
 
 ### Matriz de Riscos Quantificada
 
@@ -594,7 +594,7 @@ O Brasil possui uma oportunidade significativa para desenvolver uma indústria d
 - Desenvolvimento de mercados adjacentes
 - Inovação contínua
 
-## 11. Recomendações Estratégicas {#recomendacoes}
+## 11. Recomendações Estratégicas
 
 ### Prioridades Imediatas
 
@@ -642,7 +642,7 @@ O Brasil possui uma oportunidade significativa para desenvolver uma indústria d
 - Serviços de blockchain
 - Mercados de carbono
 
-## 12. Conclusão {#conclusao}
+## 12. Conclusão
 
 Esta análise demonstra que o Brasil possui uma oportunidade significativa para desenvolver uma indústria de mineração de Bitcoin sustentável.
 
@@ -694,7 +694,7 @@ Mesmo com premissas rigorosas, o projeto possui viabilidade econômica sólida:
 O Brasil tem a oportunidade de se tornar um líder global em mineração sustentável de Bitcoin, mas o sucesso requer abordagem realista, execução disciplinada e inovação contínua. Esta análise corrigida fornece a base sólida necessária para transformar esta oportunidade em realidade, com expectativas alinhadas às limitações técnicas e econômicas reais.
 
 
-## 13. Referências {#referencias}
+## 13. Referências
 
 ### Fontes Oficiais Brasileiras
 
