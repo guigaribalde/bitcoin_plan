@@ -1,7 +1,8 @@
 # Plano de Adoção da Mineração de Bitcoin no Brasil: Análise Rigorosa e Realista
 
+**Documento Técnico**  
 **Autor:** Guilherme Garibaldi  
-**Data:** 2º de agosto de 2025  
+**Data:** Agosto de 2025
 
 ## Sumário Executivo
 
