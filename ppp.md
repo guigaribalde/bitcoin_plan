@@ -1,7 +1,7 @@
 # Mineração Sustentável de Bitcoin: Uma Agenda Estratégica para o Brasil
 
 **Proposta Legislativa e de Política Pública**  
-**Documento para Análise Parlamentar**  
+**Documento para Análise**  
 **Autor:** Guilherme Garibaldi  
 **Data:** Agosto de 2025
 
